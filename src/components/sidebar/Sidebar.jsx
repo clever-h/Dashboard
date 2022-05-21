@@ -32,15 +32,15 @@ const Sidebar = () => {
                     </li>
                     <li>
                         <BugReportIcon className='icon'/>
-                        <span>Create a Ticket</span>
+                        <span>Ticket</span>
                     </li>
                     <li>
                         <BadgeIcon className='icon'/>
-                        <span>Employee Info</span>
+                        <span>Info</span>
                     </li>
                     <li>
                         <LinkIcon className='icon'/>
-                        <span>Link Access</span>
+                        <span>Link</span>
                     </li>
                     <p className="title">Useful</p>
                     <li>
